@@ -1,6 +1,6 @@
-# Hi, I'm Sourav Roy
+# Hola, I'm Sourav
 
-### Software Engineer • ETL Architect • AI Enthusiast 🌱
+### Software Engineer • ETL Architect • AI Enthusiast
 
 📍 India &nbsp;•&nbsp;
 
@@ -16,7 +16,7 @@
 ============================================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Curious+about+data.+Captivated+by+AI.;Building+pipelines+that+quietly+do+the+work.;Forever+learning%2C+always+shipping.+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Curious+about+data.+Captivated+by+AI.;Building+pipelines+that+quietly+do+the+work.;Forever+learning%2C+always+shipping.+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,9 +28,9 @@
 <tr>
 <td width="62%" valign="top">
 
-Hey there — I'm Sourav. By day, I build production ETL pipelines and work with Snowflake to move transaction data quietly and reliably. By night, I get lost in Python automations, experiment with generative AI video tools, and wonder what LLMs will make possible next.
+Hey there, I'm Sourav! By day, I build Data pipelines and work with Snowflake to move transaction data quietly and reliably. By night, I get lost in Python automations, experiment with generative AI video tools, and wonder what LLMs will make possible next.
 
-I like systems that *just work*. Pipelines you forget exist. Code that saves someone's afternoon. And lately — I'm fascinated by what AI is doing at the edges of data engineering.
+I like systems that *just work*. Pipelines you forget exist. Code that saves someone's afternoon. And I'm fascinated by what AI is doing at the edges of data engineering.
 
 > *"Data pipelines carry facts. Curiosity carries everything else."*
 
@@ -76,7 +76,7 @@ I like systems that *just work*. Pipelines you forget exist. Code that saves som
 
 ---
 
-## 🧭 Commit analytics — four-axis view
+## 🧭 Commit analytics - four-axis view
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ I like systems that *just work*. Pipelines you forget exist. Code that saves som
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SouravRoy-ETL&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SouravRoy-ETL&theme=tokyonight&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -127,13 +127,11 @@ I like systems that *just work*. Pipelines you forget exist. Code that saves som
 
 ## 💬 Let's connect
 
-If you're building something at the intersection of data engineering and AI - or just want to swap pipeline war stories - I'm all ears. Open to collaboration, side-project brainstorms, and good questions.
+If you're building something at the intersection of data and AI - or just want to swap pipeline war stories - I'm all ears. Open to collaboration, side-project brainstorms, and good questions.
 
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:00D9FF&height=100&section=footer)
 
 ❤️ *Thanks for stopping by.*
 
