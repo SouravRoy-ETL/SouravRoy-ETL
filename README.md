@@ -115,16 +115,6 @@ I like systems that *just work*. Pipelines you forget exist. Code that saves som
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SouravRoy-ETL&theme=tokyonight&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💬 Let's connect
 
 If you're building something at the intersection of data and AI - or just want to swap pipeline war stories - I'm all ears. Open to collaboration, side-project brainstorms, and good questions.
