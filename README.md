@@ -1,7 +1,15 @@
+# Hi, I'm Sourav Roy
+
+### Software Engineer • ETL Architect • AI Enthusiast 🌱
+
+📍 India &nbsp;•&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=SouravRoy-ETL&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+
 <!-- =============================================
-     HEADER BANNER (generated, always renders)
+     HERO BANNER
 ============================================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=250&section=header&text=Sourav%20Roy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20ETL%20Specialist%20%E2%80%A2%20AI%20Explorer&descAlignY=55&descSize=18)
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <!-- =============================================
      DYNAMIC TYPING TAGLINE (warm, AI-curious tone)
@@ -12,13 +20,13 @@
 
 </div>
 
-### 📍 West Bengal, India &nbsp;•&nbsp; 🌏 Open to remote collaboration
-
-<img src="https://komarev.com/ghpvc/?username=SouravRoy-ETL&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-
 ---
 
 ## 🌱 About me
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 Hey there — I'm Sourav. By day, I build production ETL pipelines and work with Snowflake to move transaction data quietly and reliably. By night, I get lost in Python automations, experiment with generative AI video tools, and wonder what LLMs will make possible next.
 
@@ -26,27 +34,20 @@ I like systems that *just work*. Pipelines you forget exist. Code that saves som
 
 > *"Data pipelines carry facts. Curiosity carries everything else."*
 
+</td>
+<td width="38%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="coding animation"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech stack
 
-![Skills](https://skillicons.dev/icons?i=py,java,js,mysql,postgres,mongodb,docker,git,github,linux,bash,ai&theme=dark&perline=12)
-
-**Core:** Snowflake • Talend ETL • Python • SQL • PL/SQL  
-**Databases:** PostgreSQL • Cassandra • MongoDB • Oracle  
-**Tooling:** Java • Maven • Docker • Git • Linux • Shell  
-**Exploring:** LLMs • Generative AI • Video automation • Blender scripting
-
----
-
-## 💼 What I work on
-
-- 🔄 ETL pipelines processing high-volume transaction data in fintech
-- ❄️ Snowflake stored procedures, window-function dedup views, production reconciliation
-- 🔧 Talend ingestion and transformation jobs
-- 🐍 Python tooling for data validation, migration, and automation
-- 🗄️ Cassandra → PostgreSQL DDL migration with JSONB / ARRAY strategies
-- 📊 Audit + rollback patterns for mission-critical data operations
+![Skills](https://skillicons.dev/icons?i=py,java,js,aws,postgres,mongodb,docker,kubernetes,git,github,linux,ai&theme=dark&perline=12)
 
 ---
 
@@ -118,7 +119,7 @@ I like systems that *just work*. Pipelines you forget exist. Code that saves som
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SouravRoy-ETL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/SouravRoy-ETL)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SouravRoy-ETL&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -126,7 +127,7 @@ I like systems that *just work*. Pipelines you forget exist. Code that saves som
 
 ## 💬 Let's connect
 
-If you're building something at the intersection of data engineering and AI — or just want to swap pipeline war stories — I'm all ears. Open to collaboration, side-project brainstorms, and good questions.
+If you're building something at the intersection of data engineering and AI - or just want to swap pipeline war stories - I'm all ears. Open to collaboration, side-project brainstorms, and good questions.
 
 ---
 
@@ -134,6 +135,6 @@ If you're building something at the intersection of data engineering and AI — 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:00D9FF&height=100&section=footer)
 
-⭐️ *Thanks for stopping by.*
+❤️ *Thanks for stopping by.*
 
 </div>
