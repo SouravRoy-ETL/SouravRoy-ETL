@@ -2,7 +2,7 @@
 
 ### Software Engineer • ETL Architect • AI Enthusiast
 
-📍 India &nbsp;•&nbsp;
+📍 India &nbsp;&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=SouravRoy-ETL&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
 
